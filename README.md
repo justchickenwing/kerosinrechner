@@ -22,7 +22,7 @@ Die Qualität vom Kerosin hat auch einen Einfluss:
 
 ## Authors
 
-@[justchickenwings](https://github.com/justchickenwing/)
+@[justchickenwing](https://github.com/justchickenwing/)
 
 ## Version History
 
